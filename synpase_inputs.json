@@ -1,0 +1,8 @@
+{
+    "index": "syn9879569", 
+    "TUMOR_FASTQ_2": "TODO", 
+    "TUMOR_FASTQ_1": "TODO", 
+    "REFERENCE_GENOME": "syn5923671", 
+    "sqlitefile": "syn9885608", 
+    "REFERENCE_GTF": "syn5923670"
+}
